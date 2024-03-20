@@ -1,4 +1,4 @@
-<h3>Music Artist Recommendation using Restricted Boltzmann Machine>/h3>
+<h3>Music Artist Recommendation using Restricted Boltzmann Machine>/h3></n>
 This project utilizes a Restricted Boltzmann Machine (RBM) to recommend music artists to individual users based on their preferences and popular music records. The RBM is constructed as a Python class using PyTorch and trained on data from last.fm.
 
   <h4>Project Objectives</h4>
