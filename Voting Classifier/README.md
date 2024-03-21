@@ -1,5 +1,6 @@
 <h3>Oil and Gas Reservoir Exploration</h3>
-This dataset contains information about oil and gas reservoir units, including their location, geological characteristics, and operational status. The dataset can be used for analysis and modeling to predict factors related to oil and gas exploration and production.
+
+This project focuses on utilizing machine learning algorithms for hydrocarbon exploration in the oil and gas industry. The project aims to address the industry's need for innovative solutions due to the continuity and high complexity of the technological chain, from geological exploration to product delivery. By leveraging machine learning, particularly for forecasting the development of new profitable fields, this project seeks to enhance the efficiency and accuracy of locating oil and gas deposits both onshore and offshore.
 
 <h3>Data Description</h3>
 The dataset includes the following fields for each reservoir unit:
